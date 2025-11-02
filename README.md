@@ -1,6 +1,6 @@
 # ShadowOps Digest
 
-[![CI/CD Pipeline](https://github.com/YOUR_USERNAME/shadowops-digest/workflows/CI%2FCD%20Pipeline/badge.svg)](https://github.com/YOUR_USERNAME/shadowops-digest/actions)
+[![CI/CD Pipeline](https://github.com/ezabhishek1/shadowops-digest/workflows/CI%2FCD%20Pipeline/badge.svg)](https://github.com/ezabhishek1/shadowops-digest/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/)
 [![React 18.2](https://img.shields.io/badge/react-18.2-blue.svg)](https://reactjs.org/)
@@ -560,9 +560,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-- 📫 Issues: [GitHub Issues](https://github.com/YOUR_USERNAME/shadowops-digest/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/YOUR_USERNAME/shadowops-digest/discussions)
-- 📖 Documentation: [Wiki](https://github.com/YOUR_USERNAME/shadowops-digest/wiki)
+- 📫 Issues: [GitHub Issues](https://github.com/ezabhishek1/shadowops-digest/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/ezabhishek1/shadowops-digest/discussions)
+- 📖 Documentation: [Wiki](https://github.com/ezabhishek1/shadowops-digest/wiki)
 
 ---
 
